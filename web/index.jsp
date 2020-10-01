@@ -17,6 +17,8 @@
     </head>
     <body>
         <h1 <div class="container" >TABLA PRODUCTOS FERRETERIA</h1>
+<p>hola</p>
+          
         <div class="container">
             <form action="cone_main"  method="post" class="form-group">
       <label><b>Id</b></label>
